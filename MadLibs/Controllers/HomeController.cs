@@ -1,4 +1,4 @@
-using ProjectName.Models;
+using MadLibs.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ProjectName.Controllers

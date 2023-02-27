@@ -1,6 +1,6 @@
-namespace ProjectName.Models
+namespace MadLibs.Models
 {
-  public class ClassName
+  public class Game
   {
     // properties, constructors, methods, etc. go here
   }
