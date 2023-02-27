@@ -2,6 +2,8 @@ namespace MadLibs.Models
 {
   public class Game
   {
-    // properties, constructors, methods, etc. go here
+    public string Noun { get; set; }
+    public string Verb { get; set; }
+    public string Adjective { get; set; }
   }
 }
